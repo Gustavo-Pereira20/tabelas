@@ -1,0 +1,24 @@
+{
+  "name": "tabelas",
+  "version": "1.0.0",
+  "description": "estudos sobre tabelas com HTML e CSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-Pereira20/tabelas.git"
+  },
+  "keywords": [
+    "tabela",
+    "CSS",
+    "HTML"
+  ],
+  "author": "Gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavo-Pereira20/tabelas/issues"
+  },
+  "homepage": "https://github.com/Gustavo-Pereira20/tabelas#readme"
+}
