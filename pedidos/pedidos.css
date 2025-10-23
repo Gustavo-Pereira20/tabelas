@@ -1,0 +1,32 @@
+.tabela-2{
+    border-collapse: collapse;
+}
+
+.tabela-2 th{
+    border: 2px solid red;    
+    padding: 5px;
+    background-color: rgb(196, 195, 195);
+    width: 100vh;
+    text-align: left;
+}
+
+.tabela-2 span{
+    font-weight: bold;
+}
+
+.tabela-2 td{
+    border: 2px solid red;
+    padding: 5px;
+}
+
+.green{
+    color: green;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.red{
+    color: red;
+}
